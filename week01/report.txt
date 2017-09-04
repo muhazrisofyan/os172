@@ -1,0 +1,2 @@
+Pada lab01 kita belajar bagaimana menggunakan git pada server badak, hal ini diperlukan karen kedepannya kita akan menggunakan git dan badak sebagai workspace
+
